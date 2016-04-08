@@ -1,5 +1,8 @@
 == README
-
+J'ai modifie le README dans Aptana
+(pour switcher du master à la branche dans Project Explorer, j'etais dans le terminal
+du projet images-game-virginia et j'ai tapé git checkout -b branche1virginia) et cela
+switch du master a la branche
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
